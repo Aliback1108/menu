@@ -1,0 +1,5 @@
+Flask>=3.0.0,<4
+requests>=2.31.0
+python-dotenv>=1.0.1
+requests-cache>=1.1.1
+urllib3>=2.2.0
